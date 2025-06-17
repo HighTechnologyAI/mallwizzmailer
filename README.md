@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MailWizz - Email marketing application.  
 ========
     
@@ -26,3 +27,6 @@ Thank you.
 #         *** Premium scripts and themes ***            #
 #                                                       #
 #########################################################
+=======
+# mallwizzmailer
+>>>>>>> 7fa4317356baf07d8237b19ebd08085e450dcd14
